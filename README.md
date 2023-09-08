@@ -3,4 +3,4 @@
  Thanks Follower
 
 
- ![Preview](images/FollowerImage.jpg)
+ ![Preview](Follower_Animation/images/FollowerImage.jpg)
