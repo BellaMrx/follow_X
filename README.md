@@ -2,7 +2,7 @@
 
  Thanks Follower
 
-  Animation only in HTML, CSS
+  Simple text animation only in HTML, CSS
 
   Copy the folder "Follower_Animation" and open the file "index.html" in your browser.
 
